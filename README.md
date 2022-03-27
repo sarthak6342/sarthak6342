@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sarthak6342
-- 👀 I’m interested in Coding 
+- 👋 Hi, I’m Sarthak Singh
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via mail sarthak6342@gmail.com
