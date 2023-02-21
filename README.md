@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sarthak Singh
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m working in Data Nova as a Web Developer
 - 📫 How to reach me via mail sarthak6342@gmail.com
 
 <!---
